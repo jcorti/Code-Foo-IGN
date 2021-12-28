@@ -1,7 +1,7 @@
 # Code-Foo-IGN
 Code-Foo-IGN
 Question 1:
-https://www.youtube.com/watch?v=agLdJ-tHWA0 
+ 
 
 Question 2:
 First I would take the dimensions of the plane which are 747-400 is 1035 cubic meters then I would take the balls dimensions which is .04m. The next thing you would do is take the 1035 and divide that by 4/3pie (.02)^2 times that by pie divided by rational 18 which gets you about 23,000,000 but then you should subtract a couple thousand from that to account for the equipment, seats ect. So for my final answer I would say that the best case scenario you can hold 22.5 million balls.  
